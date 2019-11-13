@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>970947562499-nohdhsg5ribs9d04c8q8sr8bc643meip.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.970947562499-nohdhsg5ribs9d04c8q8sr8bc643meip</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCHPvA95TkUr4D8lDUJxmQcIvWp0bO32vI</string>
+	<key>GCM_SENDER_ID</key>
+	<string>970947562499</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.tubes</string>
+	<key>PROJECT_ID</key>
+	<string>tubesiospbpkel3</string>
+	<key>STORAGE_BUCKET</key>
+	<string>tubesiospbpkel3.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:970947562499:ios:14f7036a5d0bf01ba29236</string>
+	<key>DATABASE_URL</key>
+	<string>https://tubesiospbpkel3.firebaseio.com</string>
+</dict>
+</plist>
